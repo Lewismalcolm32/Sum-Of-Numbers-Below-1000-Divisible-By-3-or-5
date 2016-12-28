@@ -1,0 +1,4 @@
+﻿  SumOfNumbersDivisableByThreeAndFive.cpp
+c:\users\malcolm\documents\visual studio 2013\projects\sumofnumbersdivisablebythreeandfive\sumofnumbersdivisablebythreeandfive\sumofnumbersdivisablebythreeandfive.cpp(10): warning C4018: '<' : signed/unsigned mismatch
+c:\users\malcolm\documents\visual studio 2013\projects\sumofnumbersdivisablebythreeandfive\sumofnumbersdivisablebythreeandfive\sumofnumbersdivisablebythreeandfive.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+  SumOfNumbersDivisableByThreeAndFive.vcxproj -> c:\users\malcolm\documents\visual studio 2013\Projects\SumOfNumbersDivisableByThreeAndFive\Debug\SumOfNumbersDivisableByThreeAndFive.exe
